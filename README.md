@@ -1,5 +1,7 @@
 # dl-opcional-jest
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
 ## Project setup
 ```
 npm install
